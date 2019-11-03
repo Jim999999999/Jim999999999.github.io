@@ -1,3 +1,30 @@
+
+html, body {
+  display: flex;
+  font-weight: 200;
+  line-height: 1.2;
+}
+
+body {
+  font-famly: Calibri;
+  background-poistion: center top;
+  background size: cover;
+  margin: 0;   
+  background-color: #FFF
+}
+
+.page-title {
+  text-align: center;
+  font-weight: 100;
+}
+
+.page-body {
+  text-algn: left;
+  font-weight: 90;
+  line-height: 1;
+}
+
+
 p {
   color: dark grey;
 }
