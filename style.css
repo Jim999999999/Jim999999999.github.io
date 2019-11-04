@@ -24,12 +24,12 @@ h5 {
 }
 
 .subsection_heading {
-  line-height: 5pt;
-  color: Purple;
+  line-height: 2pt;
+  color: pink;
 }
 
 li {
   font-family: Georgia, serif;
-  font-size: 11px;
-  color: red;
+  font-size: 13px;
+  color: green;
 }
