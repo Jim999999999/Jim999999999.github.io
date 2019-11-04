@@ -11,7 +11,6 @@ h3 {
 }
 
 h4 {
-  color: DarkSlateGray;
   font-size: 14px;  
 }
 
@@ -22,4 +21,14 @@ h5 {
 .contact_info {
   text-align: center;
   line-height: 5pt;
+}
+
+.subsection_heading {
+  line-height: 5pt;
+  color: Purple;
+}
+
+li {
+  font-family: Georgia, serif;
+  font-size: 11px;
 }
