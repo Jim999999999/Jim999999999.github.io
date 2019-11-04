@@ -7,12 +7,15 @@ body {
 }
 
 h3 {
-  color: DarkSlateGray;
   font-size: 16px;
 }
 
 h4 {
   color: DarkSlateGray;
   font-size: 14px;  
+}
+
+h5 {
+  font-size: 12px;
 }
 
