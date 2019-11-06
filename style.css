@@ -8,17 +8,21 @@ body {
 
 h2 {
   font-size: 16px;
-  font-weight: 300px;
-  margin-top: 10px;
+  font-weight: 300;
+  margin-top: 5px;
+  margin-bottom: 5px;
   color: grey;
 }
 
 h3 {
   font-size: 18px;
+  margin-bottom: 5px;
 }
 
 h4 {
-  font-size: 16px;  
+  font-size: 16px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 h5 {
@@ -38,11 +42,9 @@ h5 {
 
 .subsection_heading {
   color: blue;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
-
-
 
 
 li {
