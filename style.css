@@ -6,13 +6,6 @@ body {
   padding: 50px 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  margin-top:20px;
-  margin-bottom:10px;
-}
-
-
-
 h3 {
   font-size: 18px;
 }
@@ -27,11 +20,14 @@ h5 {
 
 .contact_info {
   text-align: center;
-  line-height: 5pt;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .subsection_heading {
-  color: yellow;
+  color: blue;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 li {
