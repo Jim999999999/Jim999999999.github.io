@@ -6,6 +6,12 @@ body {
   padding: 50px 0;
 }
 
+h2 {
+  font-size: 16px;
+  font-weight: 300px;
+  margin-top: 10px;
+}
+
 h3 {
   font-size: 18px;
 }
@@ -25,7 +31,7 @@ h5 {
 }
 
 .contact_info h4 {
-  font-weight: 200;
+  font-weight: 300;
   color: purple;
 }
 
@@ -35,9 +41,8 @@ h5 {
   margin-bottom: 10px;
 }
 
-#s01 {
-  font-weight: 200;
-}
+
+
 
 li {
   font-family: Georgia, serif;
