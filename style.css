@@ -27,6 +27,8 @@ h4 {
 
 h5 {
   font-size: 14px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .contact_info {
@@ -43,4 +45,6 @@ li {
   font-family: Georgia, serif;
   font-size: 14px;
   color: black;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
