@@ -39,6 +39,10 @@ h5 {
   text-align: center;
 }
 
+.photo {
+  border: 5px solid #FFF;
+  margin: 20px;
+}
 
 li {
   font-family: Georgia, serif;
