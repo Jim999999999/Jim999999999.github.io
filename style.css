@@ -42,6 +42,7 @@ h5 {
 .photo {
   border: 5px solid #FFF;
   margin: 20px;
+  display: inline;
 }
 
 li {
