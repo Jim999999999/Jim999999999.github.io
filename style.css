@@ -43,6 +43,7 @@ h5 {
   border: 5px solid #FFF;
   margin: 20px;
   display: inline;
+  flex-wrap: wrap;
 }
 
 li {
