@@ -42,24 +42,6 @@ h5 {
   text-align: center;
 }
 
-.header {
-  display: flex;
-}
-
-.contact_info {
-  padding: 40px;
-  text-align: center;
-  min-width: 67%;
-}
-
-.photo {
-  border: 5px solid #FFF;
-  margin: 20px;
-  display: flex;
-  flex-wrap: wrap;
-  max-width: 33%;
-}
-
 li {
   font-family: Georgia, serif;
   font-size: 14px;
